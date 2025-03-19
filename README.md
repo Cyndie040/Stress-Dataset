@@ -16,6 +16,14 @@ Stress Data: The primary dataset used for this analysis is the "sql_cap-17406667
 
 ![Screenshot 2025-03-19 at 21 11 30](https://github.com/user-attachments/assets/a7fa4ebc-ef2d-4034-872e-bcf98a70d2ea)
 
-- Excel - This tool was used for the data visualization
+- Excel - This tool was used for the data visualization [download here](https://microsoft.com)
 
 ![Screenshot 2025-03-19 at 10 54 37](https://github.com/user-attachments/assets/6970c472-9d02-49fa-ac3c-a2a388e13e01)
+
+### Data Cleaning and Preparation
+
+In the initial data preparation phase, we performed the following tasks:
+1. Data loading and inspection.
+2. Handling missing values.
+3. Data cleaning and formating.
+
