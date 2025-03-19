@@ -1,4 +1,4 @@
-![Screenshot 2025-03-19 at 21 11 30](https://github.com/user-attachments/assets/a7fa4ebc-ef2d-4034-872e-bcf98a70d2ea)# Workplace Related Stress
+# Workplace Related Stress
 
 ### Project Overview
 
@@ -13,7 +13,9 @@ Stress Data: The primary dataset used for this analysis is the "sql_cap-17406667
 ### Tools
 
 - SQL (POSTGRESQL) - This tool was used to clean the dataset
-  
+
+![Screenshot 2025-03-19 at 21 11 30](https://github.com/user-attachments/assets/a7fa4ebc-ef2d-4034-872e-bcf98a70d2ea)
 
 - Excel - This tool was used for the data visualization
 
+![Screenshot 2025-03-19 at 10 54 37](https://github.com/user-attachments/assets/6970c472-9d02-49fa-ac3c-a2a388e13e01)
